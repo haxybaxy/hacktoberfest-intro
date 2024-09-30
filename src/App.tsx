@@ -12,11 +12,13 @@ function App() {
       height={size.height ?? 0}
       recycle={false}
     />
+    <div className="mainparent">
       <div className="griddiv">
         {names.map((name, index) => (
           <h1 key={index}>{name}</h1>
         ))}
       </div>
+    </div>
     </>
   )
 }
