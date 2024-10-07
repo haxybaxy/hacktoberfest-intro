@@ -13,3 +13,9 @@ The aim is to teach you how to make contributions via github using pull request 
 5. Commit your changes
 6. Push your changes to the remote branch on github
 7. Make a pull request and wait to be merged
+
+
+### Sources for hacktoberfest
+- <a href="https://hacktoberfest.com/" target="_blank">Official Hacktoberfest website.</a>
+- <a href="https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm" target="_blank">Blog with project recommendations.</a>
+- Search `good first issue` on github.
