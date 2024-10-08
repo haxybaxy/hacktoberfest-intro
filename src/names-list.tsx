@@ -5,4 +5,12 @@ export const names = [
   "Laura",
   "Daniel",
   "Sami",
+  "Olivia"
+  "Matteo",
+  "David",
+  "Jafar",
+  "David",
+  "Iciar",
+  "Jenin",
+  "Isma",
 ];
