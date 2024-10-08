@@ -5,7 +5,7 @@ export const names = [
   "Laura",
   "Daniel",
   "Matteo",
-  "David"
+  "David",
   "Jafar",
   "David",
   "Iciar",
