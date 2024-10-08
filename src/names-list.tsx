@@ -4,5 +4,5 @@ export const names = [
   "Jose",
   "Laura",
   "Daniel",
-  "Sri"
+  "Harshitha"
 ];
