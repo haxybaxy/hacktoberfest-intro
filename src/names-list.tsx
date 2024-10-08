@@ -3,6 +3,6 @@ export const names = [
   "Sebas",
   "Jose",
   "Laura",
-  "Daniel"
+  "Daniel",
   "Harshitha"
 ];
